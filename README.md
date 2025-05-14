@@ -1,4 +1,5 @@
-# NextJS Chat Tutorial
+# sneaky link
+- despite the name, there are a lot more use cases besides the assumed lol
 
 
 # sneaky-link
